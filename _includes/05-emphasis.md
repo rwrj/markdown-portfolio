@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I can make _amazing_ lists. I'm not kidding, these lists are **truly _amazing_**
